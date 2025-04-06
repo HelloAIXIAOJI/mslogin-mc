@@ -1,0 +1,33 @@
+# 测试文件
+tests/
+*.test.js
+*.spec.js
+
+# 开发相关
+.git/
+.github/
+.gitignore
+.vscode/
+.idea/
+.DS_Store
+node_modules/
+
+# 日志文件
+*.log
+logs/
+
+# 临时文件
+tmp/
+temp/
+
+# 构建文件
+dist/
+build/
+coverage/
+
+# 其他
+.editorconfig
+.eslintrc
+.eslintignore
+.prettierrc
+.prettierignore 

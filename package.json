@@ -1,0 +1,47 @@
+{
+  "name": "mslogin-mc",
+  "version": "1.0.2",
+  "description": "微软登录模块，专为Minecraft启动器设计，提供完整的Microsoft OAuth认证流程",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "minecraft",
+    "microsoft",
+    "login",
+    "authentication",
+    "oauth",
+    "xbox",
+    "mojang",
+    "azure"
+  ],
+  "author": {
+    "name": "aixiaoji",
+    "email": "aixiaoji2020@163.com",
+    "url": "https://axj.paydn.cn"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HelloAIXIAOJI/mslogin-mc.git"
+  },
+  "bugs": {
+    "url": "https://github.com/HelloAIXIAOJI/mslogin-mc/issues"
+  },
+  "homepage": "https://github.com/HelloAIXIAOJI/mslogin-mc#readme",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.4.0"
+  },
+  "peerDependencies": {
+    "electron": ">=13.0.0"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  },
+  "files": [
+    "index.js",
+    "README.md",
+    "example.js"
+  ]
+} 
